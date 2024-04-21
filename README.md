@@ -43,5 +43,23 @@
 <hr/>
 
 
+</div>
+
+ <hr/>
+ 
+<h2 align="center">📚 Relevant courses 📚</h2>
+<br/>
+<div align="center">
+    <br/>
+
+<div align="center">
+ 
+Computer Science: Data Structures, Design & Analysis of Algorithms, Operating Systems, Software ENGG, Programming Paradigms, Computer Networks, Information Technology, Security & Privacy. Math: Calculus, Logic, Linear Algebra, Probability & Stats. Data/AI: Data Science, Machine Learning, Data Base Management
+</div>
+
+<br/>
+<hr/>
+
+
 
 <br/>
