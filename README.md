@@ -39,8 +39,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,c,java,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
+
 
 
 </div>
@@ -54,7 +53,9 @@
 
 <div align="center">
  
-Computer Science: Data Structures, Design & Analysis of Algorithms, Operating Systems, Software ENGG, Programming Paradigms, Computer Networks, Information Technology, Security & Privacy. Math: Calculus, Logic, Linear Algebra, Probability & Stats. Data/AI: Data Science, Machine Learning, Data Base Management
+Computer Science: Data Structures, Design & Analysis of Algorithms, Operating Systems, Software ENGG, Programming Paradigms, Computer Networks, Information Technology, Security & Privacy. 
+Math: Calculus, Logic, Linear Algebra, Probability & Stats. 
+Data/AI: Data Science, Machine Learning, Data Base Management
 </div>
 
 <br/>
