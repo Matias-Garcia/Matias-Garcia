@@ -64,6 +64,8 @@
 <div align="left">
 I have strong analytical thinking and creative problem-solving skills. My commitment to staying updated on industry trends underscores my dedication to staying at the forefront of technological advancements. Excited to bridge the gap between theory and practice, I'm enthusiastic about applying my skills to real-world challenges.
 
+
+
     
 Recognized as a proven team player, I thrive in collaborative environments that foster innovation. With a proactive mindset, I'm always ready to take the initiative and contribute meaningfully to cutting-edge projects. Fueled by a passion for excellence, I look forward to making valuable contributions to the ever-evolving landscape of computer science.
 
