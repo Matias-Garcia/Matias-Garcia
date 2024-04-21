@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matias+Campuzano!;" />
 </h1>
 
-<h3 align="center">A passionate 4th year Computer Science student at the University of Calgary</h3>
+<h3 align="center">A passionate Computer Science student (4th year) at the University of Calgary</h3>
 
 <br/>
 
