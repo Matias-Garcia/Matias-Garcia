@@ -63,6 +63,14 @@
 <br/>
 <hr/>
 
+<h2 align="center"> Me </h2>
+<br/>
+<div align="left">
+    <br/>
+I have a strong analytical thinking and creative problem-solving skills. My commitment to staying updated on industry trends underscores my dedication to staying at the forefront of technological advancements. Excited to bridge the gap between theory and practice, I'm enthusiastic about applying my skills to real-world challenges.
 
+Recognized as a proven team player, I thrive in collaborative environments that foster innovation. With a proactive mindset, I'm always ready to take the initiative and contribute meaningfully to cutting-edge projects. Fueled by a passion for excellence, I look forward to making valuable contributions to the ever-evolving landscape of computer science.
+
+In my ongoing academic journey, I'm not only building a strong theoretical foundation but also cultivating a mindset of continuous learning. This positions me as a dynamic individual prepared to adapt to the rapid changes in the tech industry. I'm eager to explore opportunities that allow me to leverage my skills and contribute to the development of innovative solutions.
 
 <br/>
