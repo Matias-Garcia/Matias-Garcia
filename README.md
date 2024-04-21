@@ -59,7 +59,7 @@
 <br/>
 <hr/>
 
-<h2 align="center"> 👨‍💻Me </h2>
+<h2 align="center"> 👨‍💻 Me </h2>
 <br/>
 <div align="left">
 I have strong analytical thinking and creative problem-solving skills. My commitment to staying updated on industry trends underscores my dedication to staying at the forefront of technological advancements. Excited to bridge the gap between theory and practice, I'm enthusiastic about applying my skills to real-world challenges.
