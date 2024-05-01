@@ -65,5 +65,16 @@
         <li>I possess robust analytical thinking and creative problem-solving abilities. My unwavering commitment to keeping abreast of industry trends reflects my dedication to remaining at the forefront of technological progress. I am enthusiastic about bridging the gap between theory and practice, eager to apply my skills to real-world challenges.</li>
         <li>Acknowledged for my collaborative spirit, I excel in environments that encourage teamwork and innovation. I approach projects with a proactive mindset, consistently taking initiative to make meaningful contributions. Driven by a passion for excellence, I am excited about contributing significantly to the dynamic field of computer science.</li>
         <li>My academic journey not only builds a strong theoretical foundation but also fosters a mindset of continuous learning. This prepares me as a versatile individual capable of adapting to the rapid changes in the tech industry. I am keen on exploring opportunities that enable me to utilize my skills and contribute to innovative solutions.</li>
-    </ul>
+    
+<li> My Plum Profile: https://secure.plum.io/p/_kbfub5UY2fXXJ4fK_QfPw
+
+
+<a href="https://secure.plum.io/p/_kbfub5UY2fXXJ4fK_QfPw" target="_blank">
+    <img src="https://img.shields.io/badge/Plum-0077B5?style=for-the-badge&logo=plum&logoColor=white" target="_blank" />
+  </a>
+
+</ul>
 <br/>
+
+
+
