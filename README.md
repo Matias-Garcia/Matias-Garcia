@@ -66,9 +66,7 @@
         <li>Acknowledged for my collaborative spirit, I excel in environments that encourage teamwork and innovation. I approach projects with a proactive mindset, consistently taking initiative to make meaningful contributions. Driven by a passion for excellence, I am excited about contributing significantly to the dynamic field of computer science.</li>
         <li>My academic journey not only builds a strong theoretical foundation but also fosters a mindset of continuous learning. This prepares me as a versatile individual capable of adapting to the rapid changes in the tech industry. I am keen on exploring opportunities that enable me to utilize my skills and contribute to innovative solutions.</li>
     
-<li> My Plum Profile: https://secure.plum.io/p/_kbfub5UY2fXXJ4fK_QfPw
-
-
+<li> My Plum Profile: 
 <a href="https://secure.plum.io/p/_kbfub5UY2fXXJ4fK_QfPw" target="_blank">
     <img src="https://img.shields.io/badge/Plum-0077B5?style=for-the-badge&logo=plum&logoColor=white" target="_blank" />
   </a>
