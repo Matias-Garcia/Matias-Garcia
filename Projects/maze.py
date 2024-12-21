@@ -1,4 +1,5 @@
 # Prerequisite run: pip3 install pygame
+# Use keys to move
 
 import pygame
 import random
