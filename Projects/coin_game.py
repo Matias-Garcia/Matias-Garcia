@@ -1,4 +1,4 @@
-# Complexity O(n^2)
+# Complexity is O(n^2)
 # it does recursively calls itself with smaller subproblems, resulting in a time complexity of O(n^2) where n is the number of coins in the input list.
 class Game:
     def __init__(self, coins):
